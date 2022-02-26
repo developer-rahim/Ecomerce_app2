@@ -1,3 +1,23 @@
+Uses Package of this Project
+firebase_core: ^1.12.0 -
+  cloud_firestore: ^3.1.7 
+  flutter_signin_button: 
+  firebase_auth: 
+  google_sign_in: 
+  provider: ^6.0.2
+  badges: ^2.0.2 
+  carousel_slider: ^4.0.0
+  http: ^0.13.4
+  flutter_credit_card: 
+
+
+
+
+
+
+
+
+
 # firebase_connect_check
 
 A new Flutter project.
