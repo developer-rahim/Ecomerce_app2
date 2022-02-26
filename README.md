@@ -1,14 +1,14 @@
-Uses Package of this Project
-firebase_core: ^1.12.0 -
-  cloud_firestore: ^3.1.7 
-  flutter_signin_button: 
+Uses Package of this Project [
+firebase_core: ^1.12.0 - fire auth
+  cloud_firestore: ^3.1.7 -firebase storage,
+  flutter_signin_button: -For signInButton,
   firebase_auth: 
-  google_sign_in: 
-  provider: ^6.0.2
+  google_sign_in: FireBase Sign
+  provider: ^6.0.2 -State Management
   badges: ^2.0.2 
   carousel_slider: ^4.0.0
-  http: ^0.13.4
-  flutter_credit_card: 
+  http: ^0.13.4 -For netWork Request
+  flutter_credit_card:  for payment]
 
 
 
